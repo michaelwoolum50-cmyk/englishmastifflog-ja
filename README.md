@@ -1,2 +1,15 @@
-# englishmastifflog-ja
-EnglishMastiffLog Japanese listing
+# EnglishMastiffLog — イングリッシュ・マスティフ専用ジャーナル
+
+EnglishMastiffLogは、イングリッシュ・マスティフだけのために作られたジャーナルアプリです。
+
+愛犬の体重、顎や頭部の様子、毛色（フォーン、アプリコット、ブリンドル、ブラックマスク）と血統メモを登録できます。毎日のよだれと顎まわりのケアを記録し、子犬から約90kgの成犬までの成長を月ごとに残せます。穏やかな番犬気質のメモや、血統・登録情報の保存にも対応します。
+
+写真は端末内だけに保存されるプライベートギャラリーへ。PINロック付き、削除前の確認付き。データはすべて端末内に保存され、アカウント登録もクラウドも不要で、オフラインで動作します。
+
+キーワード: イングリッシュ・マスティフ, マスティフ, 愛犬 日記, 犬 健康管理 アプリ, ペット 記録 アプリ, 成長記録 犬, 体重記録 犬, 血統書 管理, 超大型犬, 番犬
+
+Google Play（無料）: https://play.google.com/store/apps/details?id=com.michael.englishmastifflog
+
+公式サイト: https://sovereigndevelopers.org
+
+開発者: michaelwoolum
